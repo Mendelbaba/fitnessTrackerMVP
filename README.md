@@ -2,7 +2,7 @@
 
 <h2>Pages<h2>
 
-  *landing page where users login or signup
+ "*"landing page where users login or signup
   *homepage which displays a navbar and users statistics with preview of next workout
   *next workout page
   *create workout template page
