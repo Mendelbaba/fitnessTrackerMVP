@@ -1,22 +1,23 @@
-# gif-spa-capstone
-Gif selector that allows users to favorite and share gifs.
+# fitness tracker
+app that allows users to track workout data and create workout templates.
 
 # MVP
 Pages
-- Landing Page (where users login)
+- Landing Page (where users login).
 
-- gif selection page with search bar
-
-- user profile page with favorite gifs
-
-- gif detail page with link to share/ embed gif
+- user homepage with nav bar and lift stats with a prewview of next workout.
+- next workout page.
+- create workout template page.
+- user statistics page
 
 User Actions
-- register account
-- search for gifs
-- favorite gifs
-- share gifs
+-register account.
+-user can search or browse workout templates
+-user can create a custom template
+-user can update their statistics
 
 Database contains
-- user login info
-- user favorite gifs
+ -users
+ -workouts
+ -workouts created or saved by user
+ -users current template
