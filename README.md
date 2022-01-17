@@ -11,13 +11,13 @@ Pages
 - user statistics page
 
 User Actions
--register account.
--user can search or browse workout templates
--user can create a custom template
--user can update their statistics
+- register account.
+- user can search or browse workout templates
+- user can create a custom template
+- user can update their statistics
 
 Database contains
- -users
- -workouts
- -workouts created or saved by user
- -users current template
+ - users
+ - workouts
+ - workouts created or saved by user
+ - users current template
