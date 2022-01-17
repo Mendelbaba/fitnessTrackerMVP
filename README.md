@@ -1,5 +1,4 @@
 #A workout tracking app that a user can sign into, select a workout and track their statistics and compare to their past workouts.
-
 #Pages
 -landing page where users login or signup
   -homepage which displays a navbar and users statistics with preview of next workout
